@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T10:07:00.324Z" agent="5.0 (Windows)" etag="c-C4inxcsothce5cJbqB" version="19.0.3" type="github"><diagram id="rwxcwk1571IfmFF8ldCv" name="Page-1">3Vhdc5s4FP01enSHL2N4BJt0d2Y7TZvutPvkkY0MigERIcemv36vQHwap26bZrN9saWjq69zz+EyIHOZnt5ynMfvWEgSZGjhCZkrZBiO7cCvBMoasBog4jSsIb0D7uhXokBNoQcakmIQKBhLBM2H4JZlGdmKAYY5Z8dh2I4lw11zHJEz4G6Lk3P0Mw1FrK5lLDr8D0KjuNlZt916JMVNsLpJEeOQHXuQGSBzyRkTdSs9LUkiuWt4qefdXBhtD8ZJJiYmsM295MPQEryBlFQByLATiPVD+gjNSDbTsnhIGhwm94Ymohtow8fIeGrFP663hf+q3xz9w3rzQP6eGftb8fHTl/ef3+9Lc6a3lLRXLUTZpAHIy2UzxAIXgnFo+8eYCnKX460cOIL6AItFKu+qt2d4JFyQ00XK+ru+JSwlgpcQoiYYmsqdEq/Z5PLYScFWUNxTQYNhJb6oXbnLDzTURZuuyth0uic5M9QdcXIgFzNMQgqErYAPbQYYTiVPdZaCG+QvkePgg4gZpHS5YWxfwP8W6BaEr7csTYGrYp2RYwf3Ioo14zSiGYazLr9bRkWOs0Ge7YeDtEOd2llR59aTOasy3gX0VkKG6Q6FWC/74luxnHAsKMvWCYskR/lhk9AiXhfbmIQH2NdYAmWpHDoUhKu/NSgaSFe5cKdJxGFKs2tyqLpVJtc027EhEhKBadLbzBj6DLwihjYqBGd7smQJLG6uMpZJdnY0SUaQZJBmEQDzrveJwUFXM7DNtF0Z2HOXVE/FmIYhyQDj7JCFRMpeeyYXz0cuNs9dbLkTNtaN7/fxdca1Jow7ygQJoQ6pLuOQ24iBy4IOHRHVxfzFKtZl8u6JEKUqqiAQNkwt8MfLL3L+m0XT/UctV3VWp0Gv7PduCadABuGDRMlTP50muCQ78C15gh1T1XnMIyKuLBm9tHOSgA0fh+eYSmE11eMcl72AnFF44PVWvpVAT03WSE26NpJDvWInjvZoP64X81wvwRyBZp0ABQvk+ci7QYGNPB05tmy4AfJtZXPXI1H05r44k9hQQL++nOr2kLq2vPaMqD9TPb2OV/tV+PAZrTO/0jrmT1rnp1ifT6rZs5ALknWRYyLPkSIGcXtzOeTcIM9s1SwV70Mbap8jde/qF4MdWMdCPoStzuqmgxwf+frlWvjS9rB069v2MF7SHs7vZo/F/8Eeiwl7gCu0Svog5UA97C/Yw7v989t+kEvBkCcrxsVgt313PJJNwbZ74OypletCpFXW8pBTuzqQtUhWpEVVkSrHOpa6iO+9Hvvpo9dEfcJ+7atj336LX2W/5hvI7+M/90r/Lf5L/7mT5QkU6qx6L1vKbY8Q07gE2oLuyleo5OuE/GOfLbovWPXbbvcZ0Az+BQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-10T01:18:50.421Z" agent="5.0 (Windows)" etag="_nKqlmmdIADc0IMjs32a" version="19.0.3" type="github">
+  <diagram id="rwxcwk1571IfmFF8ldCv" name="Page-1">
+    <mxGraphModel dx="868" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object label="&lt;div&gt;mysql&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" aa="aa" id="Q_bqeU-2kPtRTXOWOky3-1">
+          <mxCell style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="200" y="320" width="60" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Q_bqeU-2kPtRTXOWOky3-2" value="&lt;div&gt;editorDB -&amp;gt;（author,books,chapter_comments_new,chapters,chapters_original,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;operation_logs,publish_schedule,terms,user,user_tasks）&lt;/div&gt;adminDB -&amp;gt;（author，book_info，book_detail）" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="330" width="490" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_bqeU-2kPtRTXOWOky3-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.7;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Q_bqeU-2kPtRTXOWOky3-3" target="Q_bqeU-2kPtRTXOWOky3-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_bqeU-2kPtRTXOWOky3-3" value="后端框架：egg.js（egg-mysql，egg-websocket-plugin）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="200" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_bqeU-2kPtRTXOWOky3-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Q_bqeU-2kPtRTXOWOky3-5" target="Q_bqeU-2kPtRTXOWOky3-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_bqeU-2kPtRTXOWOky3-5" value="外部接口：翻译接口（中-&amp;gt;英）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_bqeU-2kPtRTXOWOky3-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Q_bqeU-2kPtRTXOWOky3-7" target="Q_bqeU-2kPtRTXOWOky3-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_bqeU-2kPtRTXOWOky3-7" value="通讯接口：API接口（业务接口），websocket接口（章节实时评论）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="100" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_bqeU-2kPtRTXOWOky3-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Q_bqeU-2kPtRTXOWOky3-9" target="Q_bqeU-2kPtRTXOWOky3-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_bqeU-2kPtRTXOWOky3-9" value="前端：vue，vuetify" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="10" width="330" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
